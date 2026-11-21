@@ -1,0 +1,1 @@
+{"description":"Solmar City — an original top-down open-world crime game. Steal cars, take jobs from Rosa's Garage, outrun the Solmar PD, and lose the heat.","license":"MIT","name":"solmar-city","scripts":{"hand-in":"mkdir -p out && MAKEFUN_OUTPUT_DIR=out node main.ts","serve":"node serve.ts"},"type":"module","version":"1.0.0"}
